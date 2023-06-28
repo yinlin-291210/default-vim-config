@@ -30,5 +30,6 @@ nnoremap <s-tab> :<<enter>
 vnoremap <tab> :><enter>
 vnoremap <s-tab> :<<enter>
 nnoremap <Space> %
+nnoremap <Space> %
 vnoremap <Space> %
 nnoremap zp o<enter><esc>p
